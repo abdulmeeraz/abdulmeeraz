@@ -3,9 +3,8 @@
   <img 
     src="assets/banner.png"
     alt="Abdul Meeraz Profile"
-    width="220"
-    height="220"
-    style="border-radius: 50%; object-fit: cover;"
+    width="175px"
+    height="250px"
   />
 </p>
 
@@ -41,7 +40,7 @@ I enjoy working with data, uncovering insights, and building projects that solve
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 **Data & Analytics:**  
