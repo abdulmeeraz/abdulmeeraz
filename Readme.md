@@ -1,129 +1,145 @@
-#👋 Hi, I’m Abdul Meeraz
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/main/assets/banner.png" alt="Banner" width="100%">
+</p>
 
-🎓 B.Tech in Computer Science & Engineering (2024 Graduate)
-📊 Aspiring Data Analyst | Python & SQL Developer
-💼 Content Engineering (Mapping) – GlobalLogic
-📍 India
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+Developer;Turning+Data+Into+Insights;B.Tech+Computer+Science+Graduate" />
+</p>
+
+---
+
+## 👋 Hi, I'm Abdul Meeraz
+
+🎓 **B.Tech in Computer Science & Engineering (2024 Graduate)**  
+📊 **Aspiring Data Analyst | Python & SQL Developer**  
+💼 **Content Engineering (Mapping) – GlobalLogic**  
+📍 India  
+
+---
 
 ## 🚀 About Me
 
-I am a Computer Science graduate with a strong interest in Data Analytics, Python development, and problem-solving.
-I enjoy working with data, building analytical solutions, and continuously improving my technical skills through real-world projects.
+I am a Computer Science graduate with a strong passion for **Data Analytics, Python development, and problem-solving**.  
+I enjoy working with data, uncovering insights, and building projects that solve real-world problems.
 
-🔍 Passionate about Data Analysis & Business Insights
+- 🔍 Strong interest in **Data Analysis & Business Insights**
+- 🧠 Skilled in **Python, SQL, and Data Handling**
+- 📊 Experience with **real-world datasets & analytical projects**
+- 🌱 Currently learning **Power BI, Advanced Pandas, and Statistics**
+- 🎯 Career goal: Build a strong career in **IT / Data Analytics**
 
-🧠 Strong in Python, SQL, and analytical thinking
+---
 
-📈 Hands-on experience with real datasets and projects
+## 🛠️ Tech Stack
 
-🌱 Currently improving skills in Power BI, Pandas, NumPy, and Statistics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,vscode" />
+</p>
 
-🎯 Goal: Build a successful career in IT / Data Analytics
+**Data & Analytics:**  
+- Pandas, NumPy  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
 
-## 🛠️ Technical Skills
+**Visualization:**  
+- Power BI (Basic)  
+- Matplotlib  
 
-Programming & Query Languages
-
-Python
-
-SQL
-
-Basic JavaScript
-
-Data & Analytics
-
-Pandas
-
-NumPy
-
-Data Cleaning & Analysis
-
-Exploratory Data Analysis (EDA)
-
-Visualization Tools
-
-Power BI (Basic)
-
-Matplotlib
-
-Web Basics
-
-HTML
-
-CSS
-
-## Tools & Platforms
-
-Git & GitHub
-
-VS Code
-
-Jupyter Notebook
+---
 
 ## 📂 Featured Projects
-🔹 Risk Prediction of Cryptocurrency Using Machine Learning
 
-    Built a machine learning model to analyze and predict cryptocurrency risk
+### 📊 Risk Prediction of Cryptocurrency Using Machine Learning
+<img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/main/assets/crypto_demo.gif" width="700"/>
 
-    Performed data preprocessing, feature engineering, and model evaluation
+- Built ML models to analyze and predict cryptocurrency risk
+- Performed data preprocessing, feature engineering, and evaluation
+- Tools: Python, Pandas, NumPy, Scikit-learn  
 
-    Used Python, Pandas, NumPy, and ML algorithms
-🔗 Repo: https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
+🔗 **Repository:**  
+https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
 
-🔹 Job Application Tracker (Python + SQLite)
+---
 
-    CLI-based project to track job applications
+### 💼 Job Application Tracker (Python + SQLite)
 
-    Features: Add jobs, update status, view applications
+- CLI-based application to track job applications
+- Features: Add jobs, update status, view applications
+- Improved hands-on experience with databases and CRUD operations
 
-    Improved understanding of databases and CRUD operations
+---
 
-🔹 Student Management System (Python)
+### 🎓 Student Management System (Python)
+- Menu-driven Python application
+- Used file handling and modular programming
+- Focused on clean logic and user interaction
 
-    Menu-driven Python application
-
-    Used file handling and modular programming concepts
+---
 
 ## 🎓 Education
 
-Bachelor of Technology (B.Tech) – Computer Science & Engineering
-Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
-📅 2020 – 2024
-📊 CGPA: 7.3
+**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
+Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh  
+📅 2020 – 2024 | 📊 CGPA: **7.3**
+
+---
 
 ## 📜 Certifications
 
-Python Programming
+- Python Programming  
+- SQL  
+- Salesforce Developer Internship  
+- GitHub Foundations Certification  
+- Power BI (Basics)  
 
-SQL
-
-MS Excel
-
-Salesforce Developer Internship
-
-GitHub Foundations Certification
-
-Power BI (Basics)
+---
 
 ## 💼 Experience
 
-Content Engineering (Mapping) – GlobalLogic
-📅 Jan 2025 – Present
+**Content Engineering (Mapping)** – GlobalLogic  
+📅 Jan 2025 – Present  
 
-Worked on structured data and content mapping
+- Worked with structured and semi-structured data
+- Ensured data accuracy and consistency
+- Collaborated with cross-functional teams
 
-Improved attention to detail and data accuracy
+---
 
-Collaborated with cross-functional teams
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulmeeraz&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmeeraz&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmeeraz&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/rachakula-abdul-meeraz
+<p>
+  <a href="https://github.com/abdulmeeraz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-💻 GitHub: https://github.com/abdulmeeraz
+---
 
-📧 Email: abdulmeeraz@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulmeeraz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## ⚡ Fun Fact
+---
 
-I enjoy learning new technologies, improving my analytical thinking, and building projects that solve real-world problems 🚀
+⭐ *Thank you for visiting my profile! I’m always open to learning, collaboration, and new opportunities.*
