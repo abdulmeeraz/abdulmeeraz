@@ -1,6 +1,12 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="175px" height ="250px" style ="border-radius: 50%" >
+  <img 
+    src="assets/banner.png"
+    alt="Profile Banner"
+    width="220"
+    height="220"
+    style="border-radius: 50%; object-fit: cover; border: 4px solid #36BCF7;"
+  >
 </p>
 
 <!-- TYPING ANIMATION -->
