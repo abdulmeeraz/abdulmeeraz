@@ -2,11 +2,11 @@
 <p align="center">
   <img 
     src="assets/banner.png"
-    alt="Profile Banner"
+    alt="Abdul Meeraz Profile"
     width="220"
     height="220"
-    style="border-radius: 50%; object-fit: cover; border: 4px solid #36BCF7;"
-  >
+    style="border-radius: 50%; object-fit: cover;"
+  />
 </p>
 
 <!-- TYPING ANIMATION -->
