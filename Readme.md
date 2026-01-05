@@ -40,7 +40,7 @@ I enjoy working with data, uncovering insights, and building projects that solve
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" />
 </p>
 
 **Data & Analytics:**  
