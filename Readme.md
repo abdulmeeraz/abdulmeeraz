@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/master/assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <!-- TYPING ANIMATION -->
