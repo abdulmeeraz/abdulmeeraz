@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="175px" height ="250px" border-radius: 50% >
+  <img src="assets/banner.png" alt="Banner" width="175px" height ="250px" style ="border-radius: 50%" >
 </p>
 
 <!-- TYPING ANIMATION -->
