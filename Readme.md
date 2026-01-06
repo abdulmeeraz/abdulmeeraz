@@ -115,10 +115,16 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmeeraz&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmeeraz&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abdulmeeraz&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    width="48%"
+    style="border-radius:12px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmeeraz&theme=tokyonight"
+    width="48%"
+    style="border-radius:12px;"
+  />
 </p>
 
 <p align="center">
