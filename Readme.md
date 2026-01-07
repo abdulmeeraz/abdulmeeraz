@@ -117,6 +117,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmeeraz&theme=tokyo-night&hide_border=true"
+    width = "50%"
   />
 </p>
 <p align="center">
