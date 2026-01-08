@@ -121,12 +121,6 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
   />
 </p>
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmeeraz&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmeeraz&theme=tokyonight" />
 </p>
 
