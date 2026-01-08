@@ -97,7 +97,8 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 - SQL  
 - Salesforce Developer Internship  
 - GitHub Foundations Certification  
-- Power BI (Basics)  
+- Power BI (Basics) 
+- MS Excel 
 
 ---
 
