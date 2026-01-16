@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hi, I'm Abdul Meeraz
+## 👋 Hi, I'm Rachakula Abdul Meeraz
 
 🎓 **B.Tech in Computer Science & Engineering (2024 Graduate)**  
 📊 **Aspiring Data Analyst | Python & SQL Developer**  
