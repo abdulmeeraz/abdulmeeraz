@@ -17,7 +17,7 @@
 
 ## 👋 Hi, I'm **Rachakula Abdul Meeraz**
 
-🎓 **B.Tech – Computer Science & Engineering (2024)**  
+🎓 **B.Tech – Computer Science & Engineering (2024 Graduate)**  
 📊 **Aspiring Data Analyst | Python & SQL Developer**  
 💼 **Content Engineering (Mapping) – GlobalLogic**  
 📍 India  
@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 I am a Computer Science graduate with a strong interest in **Data Analysis, Python development, and analytical problem-solving**.  
-I enjoy working with real-world data, extracting insights, and building structured, meaningful projects.
+I enjoy working with real-world datasets, extracting insights, and building structured, data-driven projects.
 
 - 🔍 Passionate about **Data Analysis & Business Insights**
 - 🧠 Strong foundation in **Python, SQL, Pandas**
@@ -60,8 +60,8 @@ I enjoy working with real-world data, extracting insights, and building structur
 ### 📊 Risk Prediction of Cryptocurrency Using Machine Learning
 <img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/main/assets/crypto_demo.gif" width="700"/>
 
-- Built machine learning models to analyze and predict cryptocurrency risk  
-- Performed data preprocessing, feature engineering, and evaluation  
+- Developed ML models to analyze and predict cryptocurrency risk  
+- Performed data preprocessing, feature engineering, and model evaluation  
 - Tools: **Python, Pandas, NumPy, Scikit-learn**
 
 🔗 **Repository:**  
@@ -70,29 +70,29 @@ https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
 ---
 
 ### 📊 Sales Insights Analysis (Pandas)
-- End-to-end data analysis project using Pandas  
+- Performed end-to-end data analysis using Pandas  
 - Generated business insights using aggregation and group-by operations  
-- Calculated revenue, best-selling products, and category-wise performance  
+- Analyzed revenue, best-selling products, and category-wise performance  
 
 ---
 
 ### 📝 To-Do List Application (Python)
 - CLI-based task management system  
-- Features: Add, edit, delete, complete tasks  
+- Features: Add, edit, delete, and complete tasks  
 - Implemented **JSON-based persistent storage**
 
 ---
 
 ### 💰 Expense Tracker (Python)
-- Tracked daily expenses with categories  
+- Tracked daily expenses with category classification  
 - Calculated total and category-wise spending  
-- File persistence using JSON  
+- Implemented file persistence using JSON  
 
 ---
 
 ### 🎓 Student Management System (Python)
 - Menu-driven CRUD application  
-- Managed student records with file handling  
+- Managed structured student records using file handling  
 - Focused on clean logic and modular design  
 
 ---
