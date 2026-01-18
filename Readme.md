@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hi, I'm **Rachakula Abdul Meeraz**
+## 👋 Hi, I'm Rachakula Abdul Meeraz
 
 🎓 **B.Tech – Computer Science & Engineering (2024)**  
 📊 **Aspiring Data Analyst | Python & SQL Developer**  
@@ -114,7 +114,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 - Power BI (Basics)  
 - MS Excel  
 
----
+-----
 
 ## 💼 Experience
 
@@ -125,7 +125,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 - Ensured data accuracy, validation, and consistency  
 - Collaborated with cross-functional teams to maintain data quality  
 
----
+-----
 
 ## 📈 GitHub Activity
 
@@ -140,7 +140,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmeeraz&theme=tokyonight" />
 </p>
 
----
+-----
 
 ## 📫 Connect With Me
 
@@ -156,12 +156,12 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
   </a>
 </p>
 
----
+-----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdulmeeraz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+-----
 
 ⭐ *Thank you for visiting my profile! I’m always open to learning, collaboration, and data-driven opportunities.*
