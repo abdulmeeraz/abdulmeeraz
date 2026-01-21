@@ -19,7 +19,7 @@
 
 🎓 **B.Tech – Computer Science & Engineering (2024 Graduate)**  
 📊 **Aspiring Data Analyst | Python & SQL Developer**  
-💼 **Content Engineering (Mapping) – GlobalLogic**  
+💼 **Associate Analyst – GlobalLogic**  
 📍 India  
 
 ---
