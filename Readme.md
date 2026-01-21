@@ -118,7 +118,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 
 ## 💼 Experience
 
-**Content Engineering (Mapping)** – GlobalLogic  
+**Associate Analyst** – GlobalLogic  
 📅 Jan 2025 – Present  
 
 - Worked with structured and semi-structured datasets  
