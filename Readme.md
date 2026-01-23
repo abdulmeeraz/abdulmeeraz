@@ -27,11 +27,12 @@
 ## 🚀 About Me
 
 I am a Computer Science graduate with a strong interest in **Data Analysis, Python development, and analytical problem-solving**.  
-I enjoy working with real-world datasets, extracting insights, and building structured, data-driven projects.
+I enjoy working with **real-world datasets**, cleaning messy data, performing analysis, and converting numbers into **clear, actionable insights**.
 
 - 🔍 Passionate about **Data Analysis & Business Insights**
-- 🧠 Strong foundation in **Python, SQL, Pandas**
-- 📊 Hands-on experience with **EDA, data cleaning, and analysis**
+- 🧠 Strong foundation in **Python, SQL, NumPy, Pandas**
+- 📊 Hands-on experience with **data cleaning, EDA, and time-series analysis**
+- 📈 Experience with **risk, return, and correlation analysis**
 - 🌱 Currently learning **Power BI, Advanced Pandas & Statistics**
 - 🎯 Career goal: Build a long-term career in **IT / Data Analytics**
 
@@ -44,18 +45,38 @@ I enjoy working with real-world datasets, extracting insights, and building stru
 </p>
 
 ### 📊 Data & Analytics
-- Pandas, NumPy  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Transformation  
-- CSV / JSON based data handling  
+- Python (NumPy, Pandas)
+- SQL (MySQL)
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Time-Series Analysis
+- Risk & Return Analysis
+- CSV / JSON data handling
 
 ### 📈 Visualization
-- Power BI (Basic)  
-- Matplotlib  
+- Power BI (Basic)
+- Matplotlib
 
 ---
 
 ## 📂 Featured Projects
+
+### 📊 NumPy Stock Risk & Return Analyzer ⭐
+- Built an **end-to-end financial analysis pipeline using pure NumPy**
+- Cleaned raw, messy CSV data (missing values, invalid prices)
+- Calculated daily returns with correct time-series alignment
+- Measured **volatility (risk)** using standard deviation
+- Evaluated **risk-adjusted returns**
+- Performed **correlation analysis** for diversification insights
+- Extracted portfolio-level conclusions
+
+**Key Concepts:**  
+NumPy, Boolean Masking, Vectorization, Axis Operations, Time-Series Analysis
+
+🔗 **Repository:**  
+https://github.com/abdulmeeraz/numpy-stock-risk-analyzer
+
+---
 
 ### 📊 Risk Prediction of Cryptocurrency Using Machine Learning
 <img src="https://raw.githubusercontent.com/abdulmeeraz/abdulmeeraz/main/assets/crypto_demo.gif" width="700"/>
@@ -70,9 +91,9 @@ https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
 ---
 
 ### 📊 Sales Insights Analysis (Pandas)
-- Performed end-to-end data analysis using Pandas  
+- Performed end-to-end sales data analysis using Pandas  
 - Generated business insights using aggregation and group-by operations  
-- Analyzed revenue, best-selling products, and category-wise performance  
+- Analyzed revenue trends, best-selling products, and category-wise performance  
 
 ---
 
@@ -123,7 +144,8 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 
 - Worked with structured and semi-structured datasets  
 - Ensured data accuracy, validation, and consistency  
-- Collaborated with cross-functional teams to maintain data quality  
+- Performed data quality checks and analysis  
+- Collaborated with cross-functional teams to maintain data integrity  
 
 ---
 
