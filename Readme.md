@@ -54,7 +54,7 @@ I enjoy working with **real-world datasets**, cleaning messy data, performing an
 - CSV / JSON data handling
 
 ### 📈 Visualization
-- Power BI (Basic)
+- Power BI 
 - Matplotlib
 
 ---
@@ -132,7 +132,7 @@ Sri Vasavi Institute of Engineering & Technology, Andhra Pradesh
 - SQL  
 - Salesforce Developer Internship  
 - GitHub Foundations Certification  
-- Power BI (Basics)  
+- Power BI
 - MS Excel  
 
 ---
