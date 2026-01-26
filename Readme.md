@@ -46,7 +46,7 @@ I enjoy working with **real-world datasets**, cleaning messy data, performing an
 
 ### 📊 Data & Analytics
 - Python (NumPy, Pandas , matplotlib)
-- SQL (MySQL)
+- SQL (SSMS,MY SQL)
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
 - Time-Series Analysis
