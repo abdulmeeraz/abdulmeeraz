@@ -91,7 +91,7 @@ https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
 ---
 
 ### 📊 Sales Insights Analysis (Pandas)
-- Performed end-to-end sales data analysis using Pandas  
+- Performed end-to-end sales data analysis using Pandas 
 - Generated business insights using aggregation and group-by operations  
 - Analyzed revenue trends, best-selling products, and category-wise performance  
 
