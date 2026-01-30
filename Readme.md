@@ -68,7 +68,7 @@ I enjoy working with **real-world datasets**, cleaning messy data, performing an
 - Measured **volatility (risk)** using standard deviation
 - Evaluated **risk-adjusted returns**
 - Performed **correlation analysis** for diversification insights
-- Extracted portfolio-level conclusions
+- Extracted portfolio-level Scikit-learn
 
 **Key Concepts:**  
 NumPy, Boolean Masking, Vectorization, Axis Operations, Time-Series Analysis
@@ -83,7 +83,7 @@ https://github.com/abdulmeeraz/numpy-stock-risk-analyzer
 
 - Developed ML models to analyze and predict cryptocurrency risk  
 - Performed data preprocessing, feature engineering, and model evaluation  
-- Tools: **Python, Pandas, NumPy, Scikit-learn**
+- Tools: **Python,Django,Pandass, NumPy, Scikit-learn**
 
 🔗 **Repository:**  
 https://github.com/abdulmeeraz/Risk_Prediction_of_Crypto_Currency
